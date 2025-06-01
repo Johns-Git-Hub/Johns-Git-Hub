@@ -6,9 +6,9 @@ Welcome! I'm a CS student and I'm building my first projects on Github.
 
 ## Tools & Technologies I'm learning
 
-- **Languages**: [Python, Bash, SQL]
-- **Frameworks & Libraries**: [Flask, Numpy, Pandas, Requests]
-- **Tools**: [Git, VS Code, Jupyter]
+- **Languages**: [Python, Linux, SQL]
+- **Frameworks & Libraries**: [Numpy, Pandas, Requests]
+- **Tools**: [Git, VS Code, Flask, Jupyter]
 - **Databases**: [SQLite]
 
 ---
